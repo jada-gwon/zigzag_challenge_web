@@ -2,16 +2,6 @@
 
 ---
 
-###### Directory Structure
-
-```
-.
-├── bowling-score-calculator      # Compiled files (alternatively `dist`)
-├── flatten-tree                  # Documentation files (alternatively `doc`)
-├── graphql_crud                  # Source files (alternatively `lib` or `app`)
-└── README.md
-```
-
 ## Challenge 1
 
 ### bowling-score-calculator
