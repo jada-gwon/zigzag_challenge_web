@@ -1,7 +1,5 @@
 # Zigzag Challenge Web
 
----
-
 ## Challenge 1
 
 ### bowling-score-calculator
